@@ -11,7 +11,7 @@
                 <field>Name</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
+                <behavior>Read</behavior>
                 <field>Field_One__c</field>
             </layoutItems>
             <layoutItems>
